@@ -1,0 +1,1245 @@
+{"_e":"root:init","_t":1780994925496,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1780994925498,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780994925507,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780994927164,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780994929180,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780994959564,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1780994977561,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1780994977563,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994977588,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994980471,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1780994980570,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1780994981078,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1780994981673,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1780994981773,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1780994981889,"id":"1","progress":0.09,"total":14,"current":3}
+{"_e":"metro:bundling:progress","_t":1780994982111,"id":"1","progress":0.09,"total":14,"current":4}
+{"_e":"metro:bundling:progress","_t":1780994982281,"id":"1","progress":0.1111111111111111,"total":15,"current":5}
+{"_e":"metro:bundling:progress","_t":1780994982385,"id":"1","progress":0.13573407202216065,"total":19,"current":7}
+{"_e":"metro:bundling:progress","_t":1780994982569,"id":"1","progress":0.14512471655328796,"total":21,"current":8}
+{"_e":"metro:bundling:progress","_t":1780994982786,"id":"1","progress":0.14512471655328796,"total":30,"current":10}
+{"_e":"metro:bundling:progress","_t":1780994983155,"id":"1","progress":0.14512471655328796,"total":31,"current":11}
+{"_e":"metro:bundling:progress","_t":1780994983293,"id":"1","progress":0.14512471655328796,"total":32,"current":11}
+{"_e":"metro:bundling:progress","_t":1780994983512,"id":"1","progress":0.14512471655328796,"total":40,"current":12}
+{"_e":"metro:bundling:progress","_t":1780994983640,"id":"1","progress":0.14512471655328796,"total":41,"current":13}
+{"_e":"metro:bundling:progress","_t":1780994984360,"id":"1","progress":0.14512471655328796,"total":41,"current":14}
+{"_e":"metro:bundling:progress","_t":1780994984587,"id":"1","progress":0.14512471655328796,"total":42,"current":14}
+{"_e":"metro:bundling:progress","_t":1780994985827,"id":"1","progress":0.14512471655328796,"total":50,"current":14}
+{"_e":"metro:bundling:progress","_t":1780994986358,"id":"1","progress":0.14512471655328796,"total":50,"current":15}
+{"_e":"metro:bundling:progress","_t":1780994986674,"id":"1","progress":0.14512471655328796,"total":50,"current":16}
+{"_e":"metro:bundling:progress","_t":1780994987612,"id":"1","progress":0.14512471655328796,"total":51,"current":17}
+{"_e":"metro:bundling:progress","_t":1780994987828,"id":"1","progress":0.14512471655328796,"total":51,"current":18}
+{"_e":"metro:bundling:progress","_t":1780994988058,"id":"1","progress":0.14512471655328796,"total":53,"current":19}
+{"_e":"metro:bundling:progress","_t":1780994988174,"id":"1","progress":0.14512471655328796,"total":54,"current":19}
+{"_e":"metro:bundling:progress","_t":1780994988311,"id":"1","progress":0.14578512396694215,"total":55,"current":21}
+{"_e":"metro:bundling:progress","_t":1780994988582,"id":"1","progress":0.18367346938775508,"total":56,"current":24}
+{"_e":"metro:bundling:progress","_t":1780994988702,"id":"1","progress":0.18367346938775508,"total":62,"current":26}
+{"_e":"metro:bundling:progress","_t":1780994988910,"id":"1","progress":0.18367346938775508,"total":64,"current":27}
+{"_e":"metro:bundling:progress","_t":1780994989044,"id":"1","progress":0.18367346938775508,"total":66,"current":28}
+{"_e":"metro:bundling:progress","_t":1780994989151,"id":"1","progress":0.19306703397612487,"total":66,"current":29}
+{"_e":"metro:bundling:progress","_t":1780994989689,"id":"1","progress":0.2287334593572779,"total":69,"current":33}
+{"_e":"metro:bundling:progress","_t":1780994989948,"id":"1","progress":0.24280613316530142,"total":69,"current":34}
+{"_e":"metro:bundling:progress","_t":1780994990116,"id":"1","progress":0.25729888678848983,"total":69,"current":35}
+{"_e":"metro:bundling:progress","_t":1780994990226,"id":"1","progress":0.27938775510204084,"total":70,"current":37}
+{"_e":"metro:bundling:progress","_t":1780994990814,"id":"1","progress":0.31544379808594486,"total":73,"current":41}
+{"_e":"metro:bundling:progress","_t":1780994991859,"id":"1","progress":0.3310189528992306,"total":73,"current":42}
+{"_e":"metro:bundling:progress","_t":1780994992393,"id":"1","progress":0.34696941264777637,"total":73,"current":43}
+{"_e":"metro:bundling:progress","_t":1780994992514,"id":"1","progress":0.36329517733158184,"total":73,"current":44}
+{"_e":"metro:bundling:progress","_t":1780994992635,"id":"1","progress":0.39707262150497274,"total":73,"current":46}
+{"_e":"metro:bundling:progress","_t":1780994992810,"id":"1","progress":0.4323512854194032,"total":73,"current":48}
+{"_e":"metro:bundling:progress","_t":1780994993106,"id":"1","progress":0.45055357477950836,"total":73,"current":49}
+{"_e":"metro:bundling:progress","_t":1780994993399,"id":"1","progress":0.45055357477950836,"total":75,"current":50}
+{"_e":"metro:bundling:progress","_t":1780994993513,"id":"1","progress":0.45055357477950836,"total":76,"current":50}
+{"_e":"metro:bundling:started","_t":1780994993563,"id":"2","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1780994993564,"id":"1","progress":0.45055357477950836,"total":76,"current":50}
+{"_e":"metro:bundling:progress","_t":1780994993564,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994993845,"id":"1","progress":0.45055357477950836,"total":76,"current":51}
+{"_e":"metro:bundling:progress","_t":1780994993855,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994993984,"id":"1","progress":0.4863227146814404,"total":76,"current":53}
+{"_e":"metro:bundling:progress","_t":1780994993984,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994994106,"id":"1","progress":0.4863227146814404,"total":81,"current":56}
+{"_e":"metro:bundling:progress","_t":1780994994106,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994994210,"id":"1","progress":0.4863227146814404,"total":82,"current":57}
+{"_e":"metro:bundling:progress","_t":1780994994211,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994994626,"id":"1","progress":0.5002974419988102,"total":82,"current":58}
+{"_e":"metro:bundling:progress","_t":1780994994627,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994994892,"id":"1","progress":0.5176977989292088,"total":82,"current":59}
+{"_e":"metro:bundling:progress","_t":1780994994892,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994995026,"id":"1","progress":0.5273526077097506,"total":84,"current":61}
+{"_e":"metro:bundling:progress","_t":1780994995026,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994995255,"id":"1","progress":0.5320415224913494,"total":85,"current":62}
+{"_e":"metro:bundling:progress","_t":1780994995255,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994995607,"id":"1","progress":0.5493425605536333,"total":85,"current":63}
+{"_e":"metro:bundling:progress","_t":1780994995607,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994995739,"id":"1","progress":0.5669204152249134,"total":85,"current":64}
+{"_e":"metro:bundling:progress","_t":1780994995739,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994995841,"id":"1","progress":0.5755053507728893,"total":87,"current":66}
+{"_e":"metro:bundling:progress","_t":1780994995842,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994995967,"id":"1","progress":0.5755053507728893,"total":91,"current":68}
+{"_e":"metro:bundling:progress","_t":1780994995967,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994996445,"id":"1","progress":0.5755053507728893,"total":94,"current":69}
+{"_e":"metro:bundling:progress","_t":1780994996445,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994997009,"id":"1","progress":0.5755053507728893,"total":94,"current":70}
+{"_e":"metro:bundling:progress","_t":1780994997010,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994997142,"id":"1","progress":0.5755053507728893,"total":94,"current":71}
+{"_e":"metro:bundling:progress","_t":1780994997142,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994997335,"id":"1","progress":0.5866908103214123,"total":94,"current":72}
+{"_e":"metro:bundling:progress","_t":1780994997335,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994997457,"id":"1","progress":0.5866908103214123,"total":98,"current":74}
+{"_e":"metro:bundling:progress","_t":1780994997457,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994997576,"id":"1","progress":0.6049382716049383,"total":99,"current":77}
+{"_e":"metro:bundling:progress","_t":1780994997576,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994997855,"id":"1","progress":0.620752984389348,"total":99,"current":78}
+{"_e":"metro:bundling:progress","_t":1780994997856,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994998065,"id":"1","progress":0.6241000000000001,"total":100,"current":79}
+{"_e":"metro:bundling:progress","_t":1780994998065,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994998172,"id":"1","progress":0.6241000000000001,"total":104,"current":81}
+{"_e":"metro:bundling:progress","_t":1780994998172,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994998418,"id":"1","progress":0.6241000000000001,"total":109,"current":83}
+{"_e":"metro:bundling:progress","_t":1780994998418,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994998531,"id":"1","progress":0.6241000000000001,"total":119,"current":87}
+{"_e":"metro:bundling:progress","_t":1780994998531,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994998661,"id":"1","progress":0.6241000000000001,"total":120,"current":89}
+{"_e":"metro:bundling:progress","_t":1780994998661,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994998770,"id":"1","progress":0.6241000000000001,"total":120,"current":92}
+{"_e":"metro:bundling:progress","_t":1780994998770,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994998902,"id":"1","progress":0.626736111111111,"total":120,"current":95}
+{"_e":"metro:bundling:progress","_t":1780994998902,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999030,"id":"1","progress":0.6559661225326139,"total":121,"current":98}
+{"_e":"metro:bundling:progress","_t":1780994999031,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999194,"id":"1","progress":0.6584923407686106,"total":122,"current":99}
+{"_e":"metro:bundling:progress","_t":1780994999194,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999320,"id":"1","progress":0.6718624025799517,"total":122,"current":100}
+{"_e":"metro:bundling:progress","_t":1780994999320,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999434,"id":"1","progress":0.6742679621918171,"total":123,"current":101}
+{"_e":"metro:bundling:progress","_t":1780994999434,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999542,"id":"1","progress":0.7149183686958822,"total":123,"current":104}
+{"_e":"metro:bundling:progress","_t":1780994999542,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999642,"id":"1","progress":0.74460197710718,"total":124,"current":107}
+{"_e":"metro:bundling:progress","_t":1780994999642,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999769,"id":"1","progress":0.7916795833591667,"total":127,"current":113}
+{"_e":"metro:bundling:progress","_t":1780994999769,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780994999889,"id":"1","progress":0.80718994140625,"total":128,"current":115}
+{"_e":"metro:bundling:progress","_t":1780994999889,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995000022,"id":"1","progress":0.8127295684113865,"total":132,"current":119}
+{"_e":"metro:bundling:progress","_t":1780995000022,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995000226,"id":"1","progress":0.814065238283679,"total":133,"current":120}
+{"_e":"metro:bundling:progress","_t":1780995000226,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995000339,"id":"1","progress":0.8552772909717904,"total":133,"current":123}
+{"_e":"metro:bundling:progress","_t":1780995000339,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995000450,"id":"1","progress":0.8552772909717904,"total":147,"current":126}
+{"_e":"metro:bundling:progress","_t":1780995000450,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995000661,"id":"1","progress":0.8552772909717904,"total":150,"current":129}
+{"_e":"metro:bundling:progress","_t":1780995000661,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995008330,"id":"1","progress":0.8552772909717904,"total":160,"current":133}
+{"_e":"metro:bundling:progress","_t":1780995008331,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995008454,"id":"1","progress":0.8552772909717904,"total":162,"current":133}
+{"_e":"metro:bundling:progress","_t":1780995008455,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995008604,"id":"1","progress":0.8552772909717904,"total":162,"current":134}
+{"_e":"metro:bundling:progress","_t":1780995008604,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995008724,"id":"1","progress":0.8552772909717904,"total":162,"current":139}
+{"_e":"metro:bundling:progress","_t":1780995008724,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995008824,"id":"1","progress":0.8552772909717904,"total":162,"current":144}
+{"_e":"metro:bundling:progress","_t":1780995008824,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995008936,"id":"1","progress":0.8573388203017833,"total":162,"current":150}
+{"_e":"metro:bundling:progress","_t":1780995008937,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009039,"id":"1","progress":0.8810643983589899,"total":163,"current":153}
+{"_e":"metro:bundling:progress","_t":1780995009039,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009140,"id":"1","progress":0.9159546840302609,"total":163,"current":156}
+{"_e":"metro:bundling:progress","_t":1780995009140,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009240,"id":"1","progress":0.9159546840302609,"total":166,"current":158}
+{"_e":"metro:bundling:progress","_t":1780995009240,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009365,"id":"1","progress":0.9298469387755103,"total":168,"current":162}
+{"_e":"metro:bundling:progress","_t":1780995009365,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009496,"id":"1","progress":0.9413619614512472,"total":168,"current":163}
+{"_e":"metro:bundling:progress","_t":1780995009496,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009654,"id":"1","progress":0.9534948096885812,"total":170,"current":166}
+{"_e":"metro:bundling:progress","_t":1780995009654,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009837,"id":"1","progress":0.9652200677131424,"total":171,"current":168}
+{"_e":"metro:bundling:progress","_t":1780995009837,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995009947,"id":"1","progress":0.9884727187677502,"total":173,"current":172}
+{"_e":"metro:bundling:progress","_t":1780995009947,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995010101,"id":"1","progress":0.999,"total":174,"current":174}
+{"_e":"metro:bundling:progress","_t":1780995010101,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780995010992,"id":"1","total":174,"ms":33433.1832}
+{"_e":"metro:bundling:progress","_t":1780995010993,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780995011022,"id":"2","total":1,"ms":17458.6016}
+{"_e":"metro:client_log","_t":1780995012625,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780995012627,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780995013112,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780995013113,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780995013120,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1780995033748,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995033987,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995034201,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995035849,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042631,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042632,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042633,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042633,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042633,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042633,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042633,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042633,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042634,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042634,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042634,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042634,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995042634,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:bundling:started","_t":1780995042922,"id":"6","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1780995042922,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780995042965,"id":"6","total":1,"ms":43.0617}
+{"_e":"metro:client_log","_t":1780995043337,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780995043337,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780995043346,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1780995043348,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"8ecSmIM9oGYaNL_B3TEOx\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1780995043417,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"8ecSmIM9oGYaNL_B3TEOx\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1780995053048,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1780995055293,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995055679,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995064402,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995076751,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995077030,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995085733,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995098190,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995098233,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995107094,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995119445,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995119508,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995128336,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995140645,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995149531,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995163205,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995170793,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995183285,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995191999,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995204533,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995213208,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995227760,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995235518,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995250617,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995256202,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995269645,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995277612,"level":"error","data":["Server connection waiting..."]}
+{"_e":"metro:client_log","_t":1780995289945,"level":"error","data":["Server connection waiting..."]}
+{"_e":"root:init","_t":1780995367455,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1780995367457,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780995367466,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780995368471,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780995370351,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780995388059,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1780995399073,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1780995399075,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995399113,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995399265,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1780995399381,"id":"1","progress":0.1111111111111111,"total":24,"current":8}
+{"_e":"metro:bundling:progress","_t":1780995399556,"id":"1","progress":0.1111111111111111,"total":33,"current":9}
+{"_e":"metro:bundling:progress","_t":1780995399664,"id":"1","progress":0.1111111111111111,"total":44,"current":12}
+{"_e":"metro:bundling:progress","_t":1780995399772,"id":"1","progress":0.2094225797184717,"total":59,"current":27}
+{"_e":"metro:bundling:progress","_t":1780995399877,"id":"1","progress":0.45055357477950836,"total":73,"current":49}
+{"_e":"metro:bundling:progress","_t":1780995399980,"id":"1","progress":0.5663726219577001,"total":97,"current":73}
+{"_e":"metro:bundling:progress","_t":1780995400198,"id":"1","progress":0.8113746285181516,"total":131,"current":118}
+{"_e":"metro:bundling:progress","_t":1780995400253,"id":"1","progress":0.8251850125284074,"total":131,"current":119}
+{"_e":"metro:bundling:progress","_t":1780995400445,"id":"1","progress":0.8251850125284074,"total":158,"current":131}
+{"_e":"metro:bundling:progress","_t":1780995400546,"id":"1","progress":0.999,"total":172,"current":172}
+{"_e":"metro:bundling:done","_t":1780995400867,"id":"1","total":172,"ms":1793.0975}
+{"_e":"metro:client_log","_t":1780995401605,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780995401606,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780995401607,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1780995401610,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"tSYZGujyc0R70WBVjq5MP\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1780995401717,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"tSYZGujyc0R70WBVjq5MP\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1780995410730,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1780995701024,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780995701080,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780995701222,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1780995739403,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1780995739405,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780995739414,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780995740162,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780995741516,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780995762397,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1780995768160,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1780995768161,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995768181,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780995768573,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1780995769534,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1780995772792,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1780995772979,"id":"1","progress":0.09,"total":17,"current":3}
+{"_e":"metro:bundling:progress","_t":1780995773026,"id":"1","progress":0.09,"total":17,"current":4}
+{"_e":"metro:bundling:progress","_t":1780995773178,"id":"1","progress":0.09,"total":42,"current":11}
+{"_e":"metro:bundling:progress","_t":1780995773278,"id":"1","progress":0.09553719008264462,"total":55,"current":17}
+{"_e":"metro:bundling:progress","_t":1780995773393,"id":"1","progress":0.4672328152539657,"total":79,"current":54}
+{"_e":"metro:bundling:progress","_t":1780995773495,"id":"1","progress":0.5719935032836664,"total":119,"current":90}
+{"_e":"metro:bundling:progress","_t":1780995773595,"id":"1","progress":0.6894031221303949,"total":165,"current":137}
+{"_e":"metro:bundling:progress","_t":1780995773857,"id":"1","progress":0.9532229263681243,"total":169,"current":165}
+{"_e":"metro:bundling:done","_t":1780995774393,"id":"1","total":169,"ms":6232.9466}
+{"_e":"metro:client_log","_t":1780995774854,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780995774855,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780995774937,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1780995775291,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"V_WP8eD4Zt_D1QPbWlWrn\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1780995780532,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1780996069663,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780996069689,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780996069831,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1780996289408,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1780996289409,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780996289417,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780996290107,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780996291230,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780996310176,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1780996374267,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1780996374279,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780996374299,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780996374455,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1780996374515,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1780996374643,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1780996374792,"id":"1","progress":0.09,"total":17,"current":3}
+{"_e":"metro:bundling:progress","_t":1780996374843,"id":"1","progress":0.09,"total":17,"current":4}
+{"_e":"metro:bundling:progress","_t":1780996374950,"id":"1","progress":0.09,"total":19,"current":5}
+{"_e":"metro:bundling:progress","_t":1780996375063,"id":"1","progress":0.09262759924385634,"total":23,"current":7}
+{"_e":"metro:bundling:progress","_t":1780996375196,"id":"1","progress":0.09262759924385634,"total":33,"current":8}
+{"_e":"metro:bundling:progress","_t":1780996375350,"id":"1","progress":0.09262759924385634,"total":42,"current":11}
+{"_e":"metro:bundling:progress","_t":1780996375614,"id":"1","progress":0.09262759924385634,"total":43,"current":11}
+{"_e":"metro:bundling:progress","_t":1780996375800,"id":"1","progress":0.09262759924385634,"total":44,"current":12}
+{"_e":"metro:bundling:progress","_t":1780996375954,"id":"1","progress":0.09553719008264462,"total":55,"current":17}
+{"_e":"metro:bundling:progress","_t":1780996376065,"id":"1","progress":0.21189216427311663,"total":63,"current":29}
+{"_e":"metro:bundling:progress","_t":1780996376167,"id":"1","progress":0.26408179012345673,"total":72,"current":37}
+{"_e":"metro:bundling:progress","_t":1780996376281,"id":"1","progress":0.4817993079584775,"total":85,"current":59}
+{"_e":"metro:bundling:progress","_t":1780996376383,"id":"1","progress":0.6014160766347355,"total":98,"current":76}
+{"_e":"metro:bundling:progress","_t":1780996376495,"id":"1","progress":0.6014160766347355,"total":103,"current":77}
+{"_e":"metro:bundling:progress","_t":1780996376523,"id":"1","progress":0.6014160766347355,"total":103,"current":78}
+{"_e":"metro:bundling:progress","_t":1780996376629,"id":"1","progress":0.6066013313609467,"total":104,"current":81}
+{"_e":"metro:bundling:progress","_t":1780996376645,"id":"1","progress":0.6216715976331361,"total":104,"current":82}
+{"_e":"metro:bundling:progress","_t":1780996376750,"id":"1","progress":0.6705933411866823,"total":127,"current":104}
+{"_e":"metro:bundling:progress","_t":1780996376848,"id":"1","progress":0.8622448979591837,"total":140,"current":130}
+{"_e":"metro:bundling:progress","_t":1780996377112,"id":"1","progress":0.8622448979591837,"total":169,"current":151}
+{"_e":"metro:bundling:progress","_t":1780996377259,"id":"1","progress":0.9310557094490612,"total":171,"current":165}
+{"_e":"metro:bundling:progress","_t":1780996377267,"id":"1","progress":0.9423754317567797,"total":171,"current":166}
+{"_e":"metro:bundling:progress","_t":1780996377397,"id":"1","progress":0.999,"total":179,"current":179}
+{"_e":"metro:bundling:done","_t":1780996377612,"id":"1","total":179,"ms":3344.2241}
+{"_e":"metro:client_log","_t":1780996378505,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780996378524,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1780996381821,"id":"3","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1780996381822,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1780996382214,"id":"3","total":1,"ms":244.6365}
+{"_e":"metro:client_log","_t":1780996386827,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780996386844,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780996386858,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1780996386859,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"QVZLIQ56tbZa5h87M8VP1\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1780996386879,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"QVZLIQ56tbZa5h87M8VP1\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1780996395070,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1780996684972,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780996684984,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780996685571,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780996985962,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780996985984,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780996986171,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780997286958,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780997286960,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780997287180,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780997587959,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780997587960,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780997588154,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780997888970,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780997888977,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780997889197,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780998189954,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780998189956,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780998190556,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780998536980,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780998537016,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780998537243,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780998896964,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780998896965,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780998897361,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780999256953,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780999256957,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780999257248,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780999616968,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780999616974,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780999617291,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1780999916985,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1780999916986,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1780999917217,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781000276959,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781000276960,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781000277864,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781000636965,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781000636968,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781000637192,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781000996961,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781000996963,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781000997235,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781001356966,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781001356982,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781001357268,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781001716962,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781001716963,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781001717205,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781002076968,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781002076983,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781002077649,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781002436964,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781002436965,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781002437192,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781002796964,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781002796965,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781002797215,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781003096984,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781003096985,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781003097200,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781003396974,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781003396975,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781003397479,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781003756970,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781003756972,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781003757620,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781004056982,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781004056988,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781004057189,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1781005415578,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781005415581,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781005415590,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781005416404,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781005417740,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781005433046,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781005444550,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781005444551,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781005444586,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781005444689,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1781005444801,"id":"1","progress":0.1024,"total":25,"current":8}
+{"_e":"metro:bundling:progress","_t":1781005444902,"id":"1","progress":0.1024,"total":45,"current":12}
+{"_e":"metro:bundling:progress","_t":1781005445063,"id":"1","progress":0.1024,"total":45,"current":13}
+{"_e":"metro:bundling:progress","_t":1781005445321,"id":"1","progress":0.1024,"total":45,"current":14}
+{"_e":"metro:bundling:progress","_t":1781005445518,"id":"1","progress":0.1254340277777778,"total":48,"current":17}
+{"_e":"metro:bundling:progress","_t":1781005445635,"id":"1","progress":0.1254340277777778,"total":55,"current":17}
+{"_e":"metro:bundling:progress","_t":1781005445745,"id":"1","progress":0.1254340277777778,"total":55,"current":18}
+{"_e":"metro:bundling:progress","_t":1781005445850,"id":"1","progress":0.19306703397612487,"total":66,"current":29}
+{"_e":"metro:bundling:progress","_t":1781005445955,"id":"1","progress":0.2636961285609934,"total":74,"current":38}
+{"_e":"metro:bundling:progress","_t":1781005446054,"id":"1","progress":0.4444444444444444,"total":81,"current":54}
+{"_e":"metro:bundling:progress","_t":1781005446156,"id":"1","progress":0.5993756503642039,"total":93,"current":72}
+{"_e":"metro:bundling:progress","_t":1781005446288,"id":"1","progress":0.6066013313609467,"total":104,"current":81}
+{"_e":"metro:bundling:progress","_t":1781005446313,"id":"1","progress":0.6216715976331361,"total":104,"current":82}
+{"_e":"metro:bundling:progress","_t":1781005446419,"id":"1","progress":0.6835513671027341,"total":127,"current":105}
+{"_e":"metro:bundling:progress","_t":1781005446519,"id":"1","progress":0.7401059688581316,"total":136,"current":117}
+{"_e":"metro:bundling:progress","_t":1781005446624,"id":"1","progress":0.8612908234563429,"total":139,"current":129}
+{"_e":"metro:bundling:progress","_t":1781005446723,"id":"1","progress":0.8612908234563429,"total":142,"current":130}
+{"_e":"metro:bundling:progress","_t":1781005446947,"id":"1","progress":0.8612908234563429,"total":167,"current":146}
+{"_e":"metro:bundling:progress","_t":1781005447062,"id":"1","progress":0.999,"total":179,"current":179}
+{"_e":"metro:bundling:done","_t":1781005447356,"id":"1","total":179,"ms":2805.4502}
+{"_e":"metro:client_log","_t":1781005448200,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781005448201,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1781005453122,"id":"3","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781005453122,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781005453322,"id":"3","total":1,"ms":200.5218}
+{"_e":"metro:client_log","_t":1781005455954,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781005455955,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781005455968,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781005455970,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"tMr8DMvy4qlKCM2vRtObK\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781005456462,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"tMr8DMvy4qlKCM2vRtObK\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781005465313,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781005754499,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781005754511,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781005758663,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1781005952634,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781005952637,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781005952663,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781005955403,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781005957772,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781005994684,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781006009125,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781006009127,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781006009151,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781006013721,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1781006013868,"id":"1","progress":0.04000000000000001,"total":4,"current":2}
+{"_e":"metro:bundling:progress","_t":1781006014142,"id":"1","progress":0.04000000000000001,"total":13,"current":2}
+{"_e":"metro:bundling:progress","_t":1781006014257,"id":"1","progress":0.053254437869822494,"total":13,"current":3}
+{"_e":"metro:bundling:progress","_t":1781006014366,"id":"1","progress":0.053254437869822494,"total":28,"current":6}
+{"_e":"metro:bundling:progress","_t":1781006014467,"id":"1","progress":0.07038733860891296,"total":49,"current":13}
+{"_e":"metro:bundling:progress","_t":1781006014576,"id":"1","progress":0.09910836762688616,"total":54,"current":17}
+{"_e":"metro:bundling:progress","_t":1781006014676,"id":"1","progress":0.27938775510204084,"total":70,"current":37}
+{"_e":"metro:bundling:progress","_t":1781006014779,"id":"1","progress":0.4444444444444444,"total":75,"current":50}
+{"_e":"metro:bundling:progress","_t":1781006014878,"id":"1","progress":0.5260234271223282,"total":91,"current":66}
+{"_e":"metro:bundling:progress","_t":1781006014980,"id":"1","progress":0.5856934610578924,"total":98,"current":75}
+{"_e":"metro:bundling:progress","_t":1781006015082,"id":"1","progress":0.6897443263430049,"total":118,"current":98}
+{"_e":"metro:bundling:progress","_t":1781006015202,"id":"1","progress":0.8563154377366897,"total":134,"current":124}
+{"_e":"metro:bundling:progress","_t":1781006015302,"id":"1","progress":0.8563154377366897,"total":155,"current":134}
+{"_e":"metro:bundling:progress","_t":1781006015410,"id":"1","progress":0.8563154377366897,"total":164,"current":151}
+{"_e":"metro:bundling:progress","_t":1781006015516,"id":"1","progress":0.9294345440854819,"total":167,"current":161}
+{"_e":"metro:bundling:progress","_t":1781006015617,"id":"1","progress":0.999,"total":178,"current":178}
+{"_e":"metro:bundling:done","_t":1781006015795,"id":"1","total":178,"ms":6669.2473}
+{"_e":"metro:client_log","_t":1781006017316,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781006017329,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781006017346,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781006018251,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"xF50lz3Y2V7UL8Juafpvy\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781006021443,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781006194879,"level":"log","data":["Background synchronization heartbeat delayed..."]}
+{"_e":"metro:client_log","_t":1781006196976,"level":"log","data":["Background synchronization heartbeat delayed..."]}
+{"_e":"metro:bundling:started","_t":1781006216191,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781006216222,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781006217468,"id":"4","total":1,"ms":1248.9189}
+{"_e":"metro:client_log","_t":1781006218135,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781006218136,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781006218136,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781006218137,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"G11TxypFcX0ASMcizX3D1\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781006218465,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"G11TxypFcX0ASMcizX3D1\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781006227071,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781006516435,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781006516471,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781006517058,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781006674555,"level":"log","data":["error","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781006674555,"level":"log","data":["An error occurred:","{\"isTrusted\": true}"]}
+{"_e":"metro:bundling:started","_t":1781006674742,"id":"7","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781006674744,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781006675037,"id":"7","total":1,"ms":293.973}
+{"_e":"metro:client_log","_t":1781006677500,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781006677507,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781006677537,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781006677537,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"-kLqDJC95nH1eANTeyo0r\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781006677725,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"-kLqDJC95nH1eANTeyo0r\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781006687083,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781006770873,"id":"a","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781006770877,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781006771303,"id":"a","total":1,"ms":426.9729}
+{"_e":"metro:client_log","_t":1781006772141,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781006772142,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781006772142,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781006772142,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"-MUKMV2JAiePe7DDNVgBu\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781006772413,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"-MUKMV2JAiePe7DDNVgBu\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781006781223,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781007071416,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781007071450,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781007075333,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781007372418,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781007372449,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781007373070,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781007535689,"level":"log","data":["Background synchronization heartbeat delayed..."]}
+{"_e":"metro:client_log","_t":1781007546972,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1781007673509,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781007673523,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781007674235,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1781007900850,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781007900854,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781007900866,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781007902685,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781007904925,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781007925438,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781007931877,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781007931878,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781007931911,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781007932054,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1781007932740,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1781007933063,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1781007933780,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1781007933918,"id":"1","progress":0.09,"total":16,"current":3}
+{"_e":"metro:bundling:progress","_t":1781007933946,"id":"1","progress":0.09,"total":16,"current":4}
+{"_e":"metro:bundling:progress","_t":1781007934050,"id":"1","progress":0.1012396694214876,"total":22,"current":7}
+{"_e":"metro:bundling:progress","_t":1781007934175,"id":"1","progress":0.12098298676748581,"total":23,"current":8}
+{"_e":"metro:bundling:progress","_t":1781007934718,"id":"1","progress":0.12098298676748581,"total":33,"current":9}
+{"_e":"metro:bundling:progress","_t":1781007935389,"id":"1","progress":0.12098298676748581,"total":34,"current":9}
+{"_e":"metro:bundling:progress","_t":1781007935492,"id":"1","progress":0.12098298676748581,"total":41,"current":11}
+{"_e":"metro:bundling:progress","_t":1781007935592,"id":"1","progress":0.12098298676748581,"total":54,"current":16}
+{"_e":"metro:bundling:progress","_t":1781007935863,"id":"1","progress":0.12098298676748581,"total":54,"current":17}
+{"_e":"metro:bundling:progress","_t":1781007935962,"id":"1","progress":0.3054016620498616,"total":76,"current":42}
+{"_e":"metro:bundling:progress","_t":1781007936063,"id":"1","progress":0.5538128718226067,"total":86,"current":64}
+{"_e":"metro:bundling:progress","_t":1781007936163,"id":"1","progress":0.5856934610578924,"total":98,"current":75}
+{"_e":"metro:bundling:progress","_t":1781007936275,"id":"1","progress":0.6658559999999999,"total":125,"current":102}
+{"_e":"metro:bundling:progress","_t":1781007936374,"id":"1","progress":0.767222547818211,"total":137,"current":120}
+{"_e":"metro:bundling:progress","_t":1781007936475,"id":"1","progress":0.767222547818211,"total":164,"current":136}
+{"_e":"metro:bundling:progress","_t":1781007936669,"id":"1","progress":0.8495064595732328,"total":166,"current":153}
+{"_e":"metro:bundling:progress","_t":1781007936770,"id":"1","progress":0.999,"total":178,"current":178}
+{"_e":"metro:bundling:done","_t":1781007936952,"id":"1","total":178,"ms":5075.2448}
+{"_e":"metro:client_log","_t":1781007937331,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781007937333,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781007937354,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781007937354,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"NyZjff_mCyvr5IeZSHR04\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781007937531,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"NyZjff_mCyvr5IeZSHR04\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781007945253,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781008086071,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781008086097,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781008086561,"id":"4","total":1,"ms":484.4964}
+{"_e":"metro:client_log","_t":1781008087277,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781008087306,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781008087308,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781008087310,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"hZiJF6V9jAf1i1xQEyZSv\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781008087311,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"hZiJF6V9jAf1i1xQEyZSv\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781008096536,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"root:init","_t":1781008380048,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781008380051,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781008380065,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781008380903,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781008382526,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781008398871,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781008405206,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781008405207,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781008405217,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781008405324,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1781008405470,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1781008405810,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1781008406140,"id":"1","progress":0.09,"total":16,"current":3}
+{"_e":"metro:bundling:progress","_t":1781008406155,"id":"1","progress":0.09,"total":16,"current":4}
+{"_e":"metro:bundling:progress","_t":1781008406572,"id":"1","progress":0.09,"total":18,"current":5}
+{"_e":"metro:bundling:progress","_t":1781008407056,"id":"1","progress":0.09,"total":21,"current":6}
+{"_e":"metro:bundling:progress","_t":1781008407065,"id":"1","progress":0.1111111111111111,"total":21,"current":7}
+{"_e":"metro:bundling:progress","_t":1781008407240,"id":"1","progress":0.1111111111111111,"total":24,"current":8}
+{"_e":"metro:bundling:progress","_t":1781008407523,"id":"1","progress":0.1111111111111111,"total":33,"current":9}
+{"_e":"metro:bundling:progress","_t":1781008407624,"id":"1","progress":0.1111111111111111,"total":34,"current":9}
+{"_e":"metro:bundling:progress","_t":1781008407821,"id":"1","progress":0.12098298676748581,"total":46,"current":16}
+{"_e":"metro:bundling:progress","_t":1781008407925,"id":"1","progress":0.12098298676748581,"total":55,"current":19}
+{"_e":"metro:bundling:progress","_t":1781008408097,"id":"1","progress":0.12755102040816327,"total":56,"current":20}
+{"_e":"metro:bundling:progress","_t":1781008408355,"id":"1","progress":0.140625,"total":56,"current":21}
+{"_e":"metro:bundling:progress","_t":1781008408483,"id":"1","progress":0.1489689135118498,"total":57,"current":22}
+{"_e":"metro:bundling:progress","_t":1781008408582,"id":"1","progress":0.2341311134235172,"total":62,"current":30}
+{"_e":"metro:bundling:progress","_t":1781008408682,"id":"1","progress":0.5333922484534781,"total":89,"current":65}
+{"_e":"metro:bundling:progress","_t":1781008408782,"id":"1","progress":0.668241370622323,"total":126,"current":103}
+{"_e":"metro:bundling:progress","_t":1781008408947,"id":"1","progress":0.9184027777777779,"total":168,"current":161}
+{"_e":"metro:bundling:progress","_t":1781008409046,"id":"1","progress":0.999,"total":178,"current":178}
+{"_e":"metro:bundling:done","_t":1781008409167,"id":"1","total":178,"ms":3960.5418}
+{"_e":"metro:client_log","_t":1781008409646,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781008409648,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781008409648,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781008409649,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"SUHlXCl5KbzGvh30-L3sX\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781008409860,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"SUHlXCl5KbzGvh30-L3sX\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781008418162,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781008572146,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781008572152,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781008572331,"id":"4","total":1,"ms":180.8822}
+{"_e":"metro:client_log","_t":1781008574062,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781008574067,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781008574068,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781008574068,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"8X5e8L2WE7yYtxLAMIsV4\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781008574405,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"8X5e8L2WE7yYtxLAMIsV4\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781008582619,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781008715153,"id":"7","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781008715158,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781008715524,"id":"7","total":1,"ms":368.0317}
+{"_e":"metro:client_log","_t":1781008717109,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781008717109,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781008717143,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781008717144,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"I1mpQjmwr-jkHgBe4erOt\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781008717283,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"I1mpQjmwr-jkHgBe4erOt\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781008726798,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781008994618,"id":"a","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781008994626,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781008996095,"id":"a","total":1,"ms":1471.1674}
+{"_e":"metro:client_log","_t":1781008996927,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781008996930,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781008996931,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781008996931,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"-Vd4MAyNUjtDneU9pVq_D\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781008996931,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"-Vd4MAyNUjtDneU9pVq_D\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781009005837,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:failed","_t":1781009232536,"id":null,"message":"Unable to resolve \"react-native-webview\" from \"App.js\"\n  2 | import { StyleSheet, Text, View, TextInput, TouchableOpacity, ActivityIndicator, StatusBar, ScrollView } from 'react-native';\n  3 | // Component layer to handle live iframe rendering for pure authentic chart feeds\n> 4 | import { WebView } from 'react-native-webview'; \n    |                          ^\n  5 |\n  6 | export default function App() {\n  7 |   const [currentTab, setCurrentTab] = useState('Dashboard'); ","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"react-native-webview\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules\\expo\\AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"react-native-webview","originModulePath":"App.js"}
+{"_e":"metro:bundling:failed","_t":1781009236459,"id":null,"message":"Unable to resolve \"react-native-webview\" from \"App.js\"\n  2 | import { StyleSheet, Text, View, TextInput, TouchableOpacity, ActivityIndicator, StatusBar, ScrollView } from 'react-native';\n  3 | // Component layer to handle live iframe rendering for pure authentic chart feeds\n> 4 | import { WebView } from 'react-native-webview'; \n    |                          ^\n  5 |\n  6 | export default function App() {\n  7 |   const [currentTab, setCurrentTab] = useState('Dashboard'); ","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"react-native-webview\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules\\expo\\AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"react-native-webview","originModulePath":"App.js"}
+{"_e":"root:init","_t":1781009259619,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781009259622,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781009259634,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781009260994,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781009263102,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781009292151,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781009299253,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781009299256,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781009299279,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781009299402,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1781009299567,"id":"1","progress":0.16000000000000003,"total":10,"current":4}
+{"_e":"metro:bundling:progress","_t":1781009299736,"id":"1","progress":0.16000000000000003,"total":12,"current":4}
+{"_e":"metro:bundling:progress","_t":1781009300464,"id":"1","progress":0.17361111111111113,"total":12,"current":5}
+{"_e":"metro:bundling:progress","_t":1781009302202,"id":"1","progress":0.25,"total":12,"current":6}
+{"_e":"metro:bundling:progress","_t":1781009302471,"id":"1","progress":0.25,"total":13,"current":6}
+{"_e":"metro:bundling:progress","_t":1781009302662,"id":"1","progress":0.28994082840236685,"total":13,"current":7}
+{"_e":"metro:bundling:progress","_t":1781009302773,"id":"1","progress":0.5340236686390532,"total":26,"current":19}
+{"_e":"metro:bundling:progress","_t":1781009302873,"id":"1","progress":0.5625,"total":32,"current":24}
+{"_e":"metro:bundling:progress","_t":1781009302982,"id":"1","progress":0.5625,"total":61,"current":44}
+{"_e":"metro:bundling:progress","_t":1781009303082,"id":"1","progress":0.6435213138509842,"total":91,"current":73}
+{"_e":"metro:bundling:progress","_t":1781009303225,"id":"1","progress":0.7450415512465375,"total":95,"current":82}
+{"_e":"metro:bundling:progress","_t":1781009303336,"id":"1","progress":0.8520710059171599,"total":117,"current":108}
+{"_e":"metro:bundling:failed","_t":1781009303417,"id":"1","message":"Unable to resolve \"react-native-webview\" from \"App.js\"\n  2 | import { StyleSheet, Text, View, TextInput, TouchableOpacity, ActivityIndicator, StatusBar, ScrollView } from 'react-native';\n  3 | // Component layer to handle live iframe rendering for pure authentic chart feeds\n> 4 | import { WebView } from 'react-native-webview'; \n    |                          ^\n  5 |\n  6 | export default function App() {\n  7 |   const [currentTab, setCurrentTab] = useState('Dashboard'); ","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"react-native-webview\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules\\expo\\AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"react-native-webview","originModulePath":"App.js"}
+{"_e":"metro:bundling:started","_t":1781009313254,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781009313255,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781009313262,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781009313506,"id":"4","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1781009313755,"id":"4","progress":0.16000000000000003,"total":6,"current":4}
+{"_e":"metro:bundling:progress","_t":1781009313864,"id":"4","progress":0.5504682622268471,"total":31,"current":23}
+{"_e":"metro:bundling:progress","_t":1781009313966,"id":"4","progress":0.5504682622268471,"total":57,"current":41}
+{"_e":"metro:bundling:progress","_t":1781009314071,"id":"4","progress":0.5575111111111112,"total":75,"current":56}
+{"_e":"metro:bundling:progress","_t":1781009314172,"id":"4","progress":0.6915235457063712,"total":95,"current":79}
+{"_e":"metro:bundling:progress","_t":1781009314329,"id":"4","progress":0.709141274238227,"total":95,"current":80}
+{"_e":"metro:bundling:progress","_t":1781009314465,"id":"4","progress":0.7099622770919066,"total":108,"current":91}
+{"_e":"metro:bundling:progress","_t":1781009314500,"id":"4","progress":0.7256515775034293,"total":108,"current":92}
+{"_e":"metro:bundling:failed","_t":1781009314593,"id":"4","message":"Unable to resolve \"react-native-webview\" from \"App.js\"\n  2 | import { StyleSheet, Text, View, TextInput, TouchableOpacity, ActivityIndicator, StatusBar, ScrollView } from 'react-native';\n  3 | // Component layer to handle live iframe rendering for pure authentic chart feeds\n> 4 | import { WebView } from 'react-native-webview'; \n    |                          ^\n  5 |\n  6 | export default function App() {\n  7 |   const [currentTab, setCurrentTab] = useState('Dashboard'); ","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"react-native-webview\"\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90mnode_modules\\expo\\AppEntry.js\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"../../App\"\u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m \u001b[39m\u001b[90m\u001b[39m\n\u001b[90m\u001b[90m |\u001b[39m\u001b[90m \u001b[36mimport\u001b[39m\u001b[90m \u001b[32m\"./node_modules/\u001b[1mexpo\u001b[22m/AppEntry\"\u001b[39m\u001b[90m\u001b[39m\n","filename":null,"targetModuleName":"react-native-webview","originModulePath":"App.js"}
+{"_e":"root:init","_t":1781009438942,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781009438954,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781009438991,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781009440539,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781009442760,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781009472775,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781009481072,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781009481074,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781009481087,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781009481218,"id":"1","progress":0.04000000000000001,"total":4,"current":2}
+{"_e":"metro:bundling:progress","_t":1781009484122,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1781009484225,"id":"1","progress":0.09,"total":16,"current":3}
+{"_e":"metro:bundling:progress","_t":1781009484324,"id":"1","progress":0.09,"total":41,"current":10}
+{"_e":"metro:bundling:progress","_t":1781009484441,"id":"1","progress":0.11588954277953825,"total":47,"current":16}
+{"_e":"metro:bundling:progress","_t":1781009484557,"id":"1","progress":0.11588954277953825,"total":54,"current":16}
+{"_e":"metro:bundling:progress","_t":1781009484579,"id":"1","progress":0.11588954277953825,"total":54,"current":17}
+{"_e":"metro:bundling:progress","_t":1781009484677,"id":"1","progress":0.19063677841698073,"total":71,"current":31}
+{"_e":"metro:bundling:progress","_t":1781009484779,"id":"1","progress":0.5031097890751758,"total":86,"current":61}
+{"_e":"metro:bundling:progress","_t":1781009484881,"id":"1","progress":0.538566597294485,"total":124,"current":91}
+{"_e":"metro:bundling:progress","_t":1781009484980,"id":"1","progress":0.8479892345116713,"total":139,"current":128}
+{"_e":"metro:bundling:progress","_t":1781009485149,"id":"1","progress":0.8479892345116713,"total":166,"current":149}
+{"_e":"metro:bundling:progress","_t":1781009485248,"id":"1","progress":0.999,"total":178,"current":178}
+{"_e":"metro:bundling:done","_t":1781009485363,"id":"1","total":178,"ms":4289.9929}
+{"_e":"metro:client_log","_t":1781009486029,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781009486033,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781009486116,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781009486117,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"sdqLC5ccEsbqGQjJx4wmA\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781009488275,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"sdqLC5ccEsbqGQjJx4wmA\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781009493035,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781009782400,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781009782409,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781009783095,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781009988187,"level":"log","data":["error","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781009988193,"level":"log","data":["An error occurred:","{\"isTrusted\": true}"]}
+{"_e":"metro:bundling:started","_t":1781009988468,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781009988475,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781009988697,"id":"4","total":1,"ms":222.9844}
+{"_e":"metro:client_log","_t":1781009990791,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781009990792,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781009990800,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781009990802,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"mDDYktw4vMjxYzBD-S6DC\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781009990912,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"mDDYktw4vMjxYzBD-S6DC\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781010000059,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781010291746,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781010291800,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781010292233,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1781010330229,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781010330239,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781010330248,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781010331323,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781010333312,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781010354283,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781010365502,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781010365503,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781010365527,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781010365828,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1781010366116,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1781010366290,"id":"1","progress":0.04000000000000001,"total":4,"current":2}
+{"_e":"metro:bundling:progress","_t":1781010366488,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1781010367457,"id":"1","progress":0.09,"total":16,"current":3}
+{"_e":"metro:bundling:progress","_t":1781010367664,"id":"1","progress":0.09,"total":16,"current":4}
+{"_e":"metro:bundling:progress","_t":1781010367774,"id":"1","progress":0.09,"total":33,"current":9}
+{"_e":"metro:bundling:progress","_t":1781010367883,"id":"1","progress":0.09,"total":41,"current":11}
+{"_e":"metro:bundling:progress","_t":1781010367997,"id":"1","progress":0.10633270321361059,"total":46,"current":15}
+{"_e":"metro:bundling:progress","_t":1781010368129,"id":"1","progress":0.16259105098855356,"total":62,"current":25}
+{"_e":"metro:bundling:progress","_t":1781010368228,"id":"1","progress":0.45562500000000006,"total":80,"current":54}
+{"_e":"metro:bundling:progress","_t":1781010368329,"id":"1","progress":0.5166015625,"total":96,"current":69}
+{"_e":"metro:bundling:progress","_t":1781010368487,"id":"1","progress":0.7410964083175804,"total":115,"current":99}
+{"_e":"metro:bundling:progress","_t":1781010368596,"id":"1","progress":0.8392097413076434,"total":143,"current":131}
+{"_e":"metro:bundling:progress","_t":1781010368849,"id":"1","progress":0.8392097413076434,"total":144,"current":131}
+{"_e":"metro:bundling:progress","_t":1781010369104,"id":"1","progress":0.8392097413076434,"total":150,"current":132}
+{"_e":"metro:bundling:progress","_t":1781010369293,"id":"1","progress":0.8392097413076434,"total":152,"current":133}
+{"_e":"metro:bundling:progress","_t":1781010369396,"id":"1","progress":0.8392097413076434,"total":164,"current":136}
+{"_e":"metro:bundling:progress","_t":1781010369545,"id":"1","progress":0.8392097413076434,"total":164,"current":137}
+{"_e":"metro:bundling:progress","_t":1781010369677,"id":"1","progress":0.8392097413076434,"total":165,"current":142}
+{"_e":"metro:bundling:done","_t":1781010369852,"id":"1","total":165,"ms":4349.156}
+{"_e":"metro:client_log","_t":1781010370362,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781010370377,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781010370412,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781010370412,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"bJkOMikJH8y5UOyvyAnfh\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781010370413,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"bJkOMikJH8y5UOyvyAnfh\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781010377557,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781010667412,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781010667422,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781010667722,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:bundling:failed","_t":1781010855653,"id":null,"message":"Error: C:\\Users\\Aamir Akram\\XauCoreAlerts\\frontend\\App.js: Unexpected token, expected \"from\" (1:19)\n\n> 1 | import MetaTrader5 as mt5\n    |                    ^\n  2 | from flask import Flask, jsonify, request\n  3 | from flask_cors import CORS\n  4 |","importStack":null,"filename":"App.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1781010858358,"id":null,"message":"Error: C:\\Users\\Aamir Akram\\XauCoreAlerts\\frontend\\App.js: Unexpected token, expected \"from\" (1:19)\n\n> 1 | import MetaTrader5 as mt5\n    |                    ^\n  2 | from flask import Flask, jsonify, request\n  3 | from flask_cors import CORS\n  4 |","importStack":null,"filename":"App.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1781010968422,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781010968454,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781010968816,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:bundling:failed","_t":1781011005638,"id":null,"message":"Error: C:\\Users\\Aamir Akram\\XauCoreAlerts\\frontend\\App.js: Unexpected token, expected \"from\" (1:19)\n\n> 1 | import MetaTrader5 as mt5\n    |                    ^\n  2 | from flask import Flask, jsonify, request\n  3 | from flask_cors import CORS\n  4 |","importStack":null,"filename":"App.js","targetModuleName":null,"originModulePath":null}
+{"_e":"root:init","_t":1781011057565,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781011057570,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781011057581,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781011058487,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781011060635,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781011082527,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781011104638,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781011104640,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781011104652,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781011104754,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1781011104927,"id":"1","progress":0.04000000000000001,"total":6,"current":2}
+{"_e":"metro:bundling:progress","_t":1781011105185,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1781011105367,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1781011105574,"id":"1","progress":0.09,"total":16,"current":4}
+{"_e":"metro:bundling:progress","_t":1781011105692,"id":"1","progress":0.1111111111111111,"total":24,"current":8}
+{"_e":"metro:bundling:progress","_t":1781011105859,"id":"1","progress":0.1111111111111111,"total":45,"current":12}
+{"_e":"metro:bundling:progress","_t":1781011105972,"id":"1","progress":0.1111111111111111,"total":46,"current":13}
+{"_e":"metro:bundling:progress","_t":1781011106091,"id":"1","progress":0.1111111111111111,"total":46,"current":14}
+{"_e":"metro:bundling:progress","_t":1781011106200,"id":"1","progress":0.1111111111111111,"total":47,"current":15}
+{"_e":"metro:bundling:progress","_t":1781011106308,"id":"1","progress":0.1111111111111111,"total":55,"current":17}
+{"_e":"metro:bundling:progress","_t":1781011106409,"id":"1","progress":0.11890606420927469,"total":58,"current":20}
+{"_e":"metro:bundling:progress","_t":1781011106523,"id":"1","progress":0.19063677841698073,"total":71,"current":31}
+{"_e":"metro:bundling:progress","_t":1781011106653,"id":"1","progress":0.49519890260631005,"total":81,"current":57}
+{"_e":"metro:bundling:progress","_t":1781011106760,"id":"1","progress":0.6014160766347355,"total":98,"current":76}
+{"_e":"metro:bundling:progress","_t":1781011106890,"id":"1","progress":0.6014160766347355,"total":102,"current":77}
+{"_e":"metro:bundling:progress","_t":1781011107008,"id":"1","progress":0.6066013313609467,"total":104,"current":81}
+{"_e":"metro:bundling:progress","_t":1781011107114,"id":"1","progress":0.696534569506473,"total":133,"current":111}
+{"_e":"metro:bundling:progress","_t":1781011107218,"id":"1","progress":0.7771814404432132,"total":152,"current":134}
+{"_e":"metro:bundling:progress","_t":1781011107365,"id":"1","progress":0.7771814404432132,"total":164,"current":137}
+{"_e":"metro:bundling:progress","_t":1781011107467,"id":"1","progress":0.999,"total":178,"current":178}
+{"_e":"metro:bundling:done","_t":1781011107636,"id":"1","total":178,"ms":2997.2954}
+{"_e":"metro:client_log","_t":1781011108452,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781011108458,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781011108476,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781011108477,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"pteVglJK1hFJsLh2KrWE_\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781011108802,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"pteVglJK1hFJsLh2KrWE_\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781011116580,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781011406496,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781011406531,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781011407385,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1781011608277,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781011608280,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781011608289,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781011609193,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781011610736,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781011629886,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781011635805,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781011635806,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781011635815,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781011635922,"id":"1","progress":0.0625,"total":16,"current":4}
+{"_e":"metro:bundling:progress","_t":1781011636115,"id":"1","progress":0.08650519031141869,"total":17,"current":5}
+{"_e":"metro:bundling:progress","_t":1781011636232,"id":"1","progress":0.08650519031141869,"total":18,"current":5}
+{"_e":"metro:bundling:progress","_t":1781011636487,"id":"1","progress":0.09,"total":20,"current":6}
+{"_e":"metro:bundling:progress","_t":1781011636643,"id":"1","progress":0.09,"total":33,"current":9}
+{"_e":"metro:bundling:progress","_t":1781011636743,"id":"1","progress":0.09679012345679013,"total":45,"current":14}
+{"_e":"metro:bundling:progress","_t":1781011636843,"id":"1","progress":0.09679012345679013,"total":54,"current":16}
+{"_e":"metro:bundling:progress","_t":1781011636951,"id":"1","progress":0.1816715936576189,"total":61,"current":26}
+{"_e":"metro:bundling:progress","_t":1781011637052,"id":"1","progress":0.37257547647158035,"total":77,"current":47}
+{"_e":"metro:bundling:progress","_t":1781011637167,"id":"1","progress":0.45562500000000006,"total":80,"current":54}
+{"_e":"metro:bundling:progress","_t":1781011637265,"id":"1","progress":0.4933390022675736,"total":84,"current":59}
+{"_e":"metro:bundling:progress","_t":1781011637827,"id":"1","progress":0.5955812854442344,"total":92,"current":71}
+{"_e":"metro:bundling:progress","_t":1781011637984,"id":"1","progress":0.5955812854442344,"total":95,"current":72}
+{"_e":"metro:bundling:progress","_t":1781011638143,"id":"1","progress":0.5955812854442344,"total":98,"current":73}
+{"_e":"metro:bundling:progress","_t":1781011638243,"id":"1","progress":0.668241370622323,"total":126,"current":103}
+{"_e":"metro:bundling:progress","_t":1781011638344,"id":"1","progress":0.7616528925619834,"total":165,"current":144}
+{"_e":"metro:bundling:progress","_t":1781011638474,"id":"1","progress":0.9529478458049886,"total":168,"current":164}
+{"_e":"metro:bundling:done","_t":1781011638632,"id":"1","total":168,"ms":2827.426}
+{"_e":"metro:client_log","_t":1781011639084,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781011639085,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781011639098,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781011639098,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"kAeZ-HVEab4wtkSp-h7MA\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781011639645,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"kAeZ-HVEab4wtkSp-h7MA\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781011647959,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781011753739,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781011753740,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781011753994,"id":"4","total":1,"ms":254.7529}
+{"_e":"metro:client_log","_t":1781011754492,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781011754494,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781011754507,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781011754508,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"l7flnqJA0cnBPs5OaM0ts\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781011754562,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"l7flnqJA0cnBPs5OaM0ts\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781011756035,"level":"warn","data":["Cannot record touch end without a touch start.\n","Touch End: {\"identifier\":0,\"pageX\":129,\"pageY\":304,\"timestamp\":2591.399999976158}\n","Touch Bank: []"]}
+{"_e":"metro:client_log","_t":1781011763963,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781012054400,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781012054408,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781012055136,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781012355451,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781012355506,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781012355800,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781012656443,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781012656473,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781012657404,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781012865707,"level":"log","data":["error","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781012865723,"level":"log","data":["An error occurred:","{\"isTrusted\": true}"]}
+{"_e":"metro:bundling:started","_t":1781012865999,"id":"7","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781012866001,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012866011,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012866242,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012867226,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012867327,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012867443,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012867545,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012867731,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012867845,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012867980,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012868079,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781012868246,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781012868312,"id":"7","total":1,"ms":2309.9587}
+{"_e":"metro:client_log","_t":1781012869039,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781012869040,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781012869059,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781012869059,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"CpZhraMSkJOMBXio7THMl\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781012869224,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"CpZhraMSkJOMBXio7THMl\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781012877858,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781013015596,"id":"a","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781013015601,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781013015732,"id":"a","total":1,"ms":133.253}
+{"_e":"metro:client_log","_t":1781013017587,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781013017588,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781013017589,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781013017591,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"Ea8bwML2R76ehjqMudbB6\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781013017602,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"Ea8bwML2R76ehjqMudbB6\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781013027191,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781013323196,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781013323239,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781013327325,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1781013392259,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781013392261,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781013392272,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781013393271,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781013395005,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781013414348,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781013435523,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781013435525,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781013435842,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781013436019,"id":"1","progress":0.04000000000000001,"total":4,"current":2}
+{"_e":"metro:bundling:progress","_t":1781013436240,"id":"1","progress":0.04000000000000001,"total":6,"current":2}
+{"_e":"metro:bundling:progress","_t":1781013436309,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1781013436525,"id":"1","progress":0.1111111111111111,"total":24,"current":8}
+{"_e":"metro:bundling:progress","_t":1781013436628,"id":"1","progress":0.1111111111111111,"total":35,"current":9}
+{"_e":"metro:bundling:progress","_t":1781013436774,"id":"1","progress":0.1111111111111111,"total":46,"current":15}
+{"_e":"metro:bundling:progress","_t":1781013437107,"id":"1","progress":0.1111111111111111,"total":54,"current":16}
+{"_e":"metro:bundling:progress","_t":1781013437184,"id":"1","progress":0.1111111111111111,"total":54,"current":17}
+{"_e":"metro:bundling:progress","_t":1781013437283,"id":"1","progress":0.28994082840236685,"total":65,"current":35}
+{"_e":"metro:bundling:progress","_t":1781013437384,"id":"1","progress":0.28994082840236685,"total":73,"current":37}
+{"_e":"metro:bundling:progress","_t":1781013437483,"id":"1","progress":0.32011772853185594,"total":76,"current":43}
+{"_e":"metro:bundling:progress","_t":1781013437585,"id":"1","progress":0.45562500000000006,"total":80,"current":54}
+{"_e":"metro:bundling:progress","_t":1781013437686,"id":"1","progress":0.5429362880886426,"total":95,"current":70}
+{"_e":"metro:bundling:progress","_t":1781013437786,"id":"1","progress":0.6033960459183674,"total":112,"current":87}
+{"_e":"metro:bundling:progress","_t":1781013437886,"id":"1","progress":0.7641770097802728,"total":151,"current":132}
+{"_e":"metro:bundling:progress","_t":1781013438032,"id":"1","progress":0.9529478458049886,"total":168,"current":164}
+{"_e":"metro:bundling:progress","_t":1781013438132,"id":"1","progress":0.9887324842797409,"total":177,"current":176}
+{"_e":"metro:bundling:done","_t":1781013438232,"id":"1","total":177,"ms":2708.4315}
+{"_e":"metro:client_log","_t":1781013438725,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781013438728,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781013438729,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781013439942,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"ga4459n292XAfNQFeTkCP\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781013440314,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"ga4459n292XAfNQFeTkCP\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781013447444,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:bundling:started","_t":1781013575493,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781013575493,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781013575566,"id":"4","total":1,"ms":73.623}
+{"_e":"metro:client_log","_t":1781013576338,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781013576339,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781013576341,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781013576342,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"-dtZurryw6t01jdNw_Q8K\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781013576495,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"-dtZurryw6t01jdNw_Q8K\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781013578216,"level":"warn","data":["Cannot record touch end without a touch start.\n","Touch End: {\"identifier\":0,\"pageX\":170,\"pageY\":296,\"timestamp\":2880.0999999940395}\n","Touch Bank: []"]}
+{"_e":"metro:client_log","_t":1781013585861,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781013876405,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781013876419,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781013877129,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781013951933,"level":"log","data":["[TypeError: Failed to fetch]"]}
+{"_e":"metro:client_log","_t":1781013952113,"level":"log","data":["Data sync lag."]}
+{"_e":"root:init","_t":1781013966844,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781013966850,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781013966901,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781013967795,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781013971552,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781013991374,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781013998755,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781013998756,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781013998764,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781013998899,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1781013998928,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1781013999131,"id":"1","progress":0.09,"total":6,"current":3}
+{"_e":"metro:bundling:progress","_t":1781013999234,"id":"1","progress":0.09,"total":7,"current":3}
+{"_e":"metro:bundling:progress","_t":1781013999430,"id":"1","progress":0.09,"total":21,"current":6}
+{"_e":"metro:bundling:progress","_t":1781013999530,"id":"1","progress":0.1111111111111111,"total":24,"current":8}
+{"_e":"metro:bundling:progress","_t":1781013999827,"id":"1","progress":0.1111111111111111,"total":41,"current":11}
+{"_e":"metro:bundling:progress","_t":1781013999933,"id":"1","progress":0.1111111111111111,"total":46,"current":15}
+{"_e":"metro:bundling:progress","_t":1781014000261,"id":"1","progress":0.12098298676748581,"total":46,"current":16}
+{"_e":"metro:bundling:progress","_t":1781014000821,"id":"1","progress":0.12098298676748581,"total":47,"current":16}
+{"_e":"metro:bundling:progress","_t":1781014000935,"id":"1","progress":0.12098298676748581,"total":54,"current":16}
+{"_e":"metro:bundling:progress","_t":1781014000955,"id":"1","progress":0.12098298676748581,"total":54,"current":17}
+{"_e":"metro:bundling:progress","_t":1781014001078,"id":"1","progress":0.1489689135118498,"total":57,"current":22}
+{"_e":"metro:bundling:progress","_t":1781014001206,"id":"1","progress":0.15196782533754669,"total":59,"current":23}
+{"_e":"metro:bundling:progress","_t":1781014001308,"id":"1","progress":0.45008812690273997,"total":79,"current":53}
+{"_e":"metro:bundling:progress","_t":1781014001407,"id":"1","progress":0.5248854643898376,"total":98,"current":71}
+{"_e":"metro:bundling:progress","_t":1781014001507,"id":"1","progress":0.8033470507544581,"total":135,"current":121}
+{"_e":"metro:bundling:progress","_t":1781014001656,"id":"1","progress":0.8033470507544581,"total":164,"current":137}
+{"_e":"metro:bundling:progress","_t":1781014001826,"id":"1","progress":0.9529478458049886,"total":168,"current":164}
+{"_e":"metro:bundling:done","_t":1781014001992,"id":"1","total":168,"ms":3236.48}
+{"_e":"metro:client_log","_t":1781014002392,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781014002394,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781014002426,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781014002427,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"OkpBYpBxg2WoO2VKl72Iw\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781014002631,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"OkpBYpBxg2WoO2VKl72Iw\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781014011976,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781014300438,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781014300478,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781014300661,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"root:init","_t":1781014435753,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781014435756,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781014435766,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781014436648,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781014438123,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781014459338,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"root:init","_t":1781064313740,"format":"v0-jsonl","version":"56.1.14"}
+{"_e":"env:mode","_t":1781064313742,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1781064313751,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1781064314773,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1781064316088,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1781064336587,"atlas":false,"workers":1,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1781064360549,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781064360550,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781064360566,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781064362526,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1781064362857,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1781064363877,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1781064364069,"id":"1","progress":0.04000000000000001,"total":15,"current":3}
+{"_e":"metro:bundling:progress","_t":1781064364224,"id":"1","progress":0.04938271604938271,"total":18,"current":4}
+{"_e":"metro:bundling:progress","_t":1781064364406,"id":"1","progress":0.04938271604938271,"total":27,"current":5}
+{"_e":"metro:bundling:progress","_t":1781064364515,"id":"1","progress":0.04938271604938271,"total":36,"current":6}
+{"_e":"metro:bundling:progress","_t":1781064364690,"id":"1","progress":0.04938271604938271,"total":36,"current":7}
+{"_e":"metro:bundling:progress","_t":1781064364934,"id":"1","progress":0.04938271604938271,"total":38,"current":8}
+{"_e":"metro:bundling:progress","_t":1781064365111,"id":"1","progress":0.0625,"total":40,"current":10}
+{"_e":"metro:bundling:progress","_t":1781064365284,"id":"1","progress":0.0625,"total":47,"current":11}
+{"_e":"metro:bundling:progress","_t":1781064365390,"id":"1","progress":0.0625,"total":49,"current":12}
+{"_e":"metro:bundling:progress","_t":1781064365545,"id":"1","progress":0.07840000000000001,"total":50,"current":14}
+{"_e":"metro:bundling:progress","_t":1781064365694,"id":"1","progress":0.08590963139120093,"total":58,"current":17}
+{"_e":"metro:bundling:progress","_t":1781064365886,"id":"1","progress":0.09,"total":60,"current":18}
+{"_e":"metro:bundling:progress","_t":1781064366003,"id":"1","progress":0.13328294280675232,"total":63,"current":23}
+{"_e":"metro:bundling:progress","_t":1781064366122,"id":"1","progress":0.19140625,"total":64,"current":28}
+{"_e":"metro:bundling:progress","_t":1781064366226,"id":"1","progress":0.25,"total":66,"current":33}
+{"_e":"metro:bundling:progress","_t":1781064366340,"id":"1","progress":0.3049676988193362,"total":67,"current":37}
+{"_e":"metro:bundling:progress","_t":1781064366488,"id":"1","progress":0.31228373702422146,"total":68,"current":38}
+{"_e":"metro:bundling:progress","_t":1781064366673,"id":"1","progress":0.3194706994328922,"total":69,"current":39}
+{"_e":"metro:bundling:progress","_t":1781064367818,"id":"1","progress":0.32653061224489793,"total":70,"current":40}
+{"_e":"metro:bundling:progress","_t":1781064368053,"id":"1","progress":0.343061224489796,"total":70,"current":41}
+{"_e":"metro:bundling:progress","_t":1781064368203,"id":"1","progress":0.37734693877551023,"total":70,"current":43}
+{"_e":"metro:bundling:progress","_t":1781064368311,"id":"1","progress":0.4197579845268796,"total":71,"current":46}
+{"_e":"metro:bundling:progress","_t":1781064368411,"id":"1","progress":0.4565376186997808,"total":74,"current":50}
+{"_e":"metro:bundling:progress","_t":1781064368521,"id":"1","progress":0.5048476454293629,"total":76,"current":54}
+{"_e":"metro:bundling:progress","_t":1781064368659,"id":"1","progress":0.5048476454293629,"total":83,"current":57}
+{"_e":"metro:bundling:progress","_t":1781064368840,"id":"1","progress":0.5052983016402961,"total":83,"current":59}
+{"_e":"metro:bundling:progress","_t":1781064368972,"id":"1","progress":0.5052983016402961,"total":87,"current":60}
+{"_e":"metro:bundling:progress","_t":1781064369172,"id":"1","progress":0.5052983016402961,"total":87,"current":61}
+{"_e":"metro:bundling:progress","_t":1781064369561,"id":"1","progress":0.5078610120227243,"total":87,"current":62}
+{"_e":"metro:bundling:progress","_t":1781064369695,"id":"1","progress":0.5289256198347108,"total":88,"current":64}
+{"_e":"metro:bundling:progress","_t":1781064369775,"id":"1","progress":0.5455836776859504,"total":88,"current":65}
+{"_e":"metro:bundling:progress","_t":1781064369878,"id":"1","progress":0.5455836776859504,"total":100,"current":70}
+{"_e":"metro:bundling:progress","_t":1781064369995,"id":"1","progress":0.5455836776859504,"total":101,"current":72}
+{"_e":"metro:bundling:progress","_t":1781064370109,"id":"1","progress":0.5964121164591707,"total":101,"current":78}
+{"_e":"metro:bundling:progress","_t":1781064370215,"id":"1","progress":0.6306228373702422,"total":102,"current":81}
+{"_e":"metro:bundling:progress","_t":1781064370328,"id":"1","progress":0.6523668639053255,"total":104,"current":84}
+{"_e":"metro:bundling:progress","_t":1781064370459,"id":"1","progress":0.6523668639053255,"total":105,"current":84}
+{"_e":"metro:bundling:progress","_t":1781064370567,"id":"1","progress":0.7370060519757922,"total":106,"current":91}
+{"_e":"metro:bundling:progress","_t":1781064370828,"id":"1","progress":0.7919367056645064,"total":109,"current":97}
+{"_e":"metro:bundling:progress","_t":1781064370944,"id":"1","progress":0.8416799932665602,"total":109,"current":100}
+{"_e":"metro:bundling:progress","_t":1781064371054,"id":"1","progress":0.8416799932665602,"total":114,"current":102}
+{"_e":"metro:bundling:progress","_t":1781064371154,"id":"1","progress":0.8416799932665602,"total":119,"current":105}
+{"_e":"metro:bundling:progress","_t":1781064371257,"id":"1","progress":0.8416799932665602,"total":128,"current":108}
+{"_e":"metro:bundling:progress","_t":1781064371365,"id":"1","progress":0.8416799932665602,"total":130,"current":109}
+{"_e":"metro:bundling:progress","_t":1781064371470,"id":"1","progress":0.8416799932665602,"total":130,"current":114}
+{"_e":"metro:bundling:progress","_t":1781064371578,"id":"1","progress":0.8663313609467456,"total":130,"current":121}
+{"_e":"metro:bundling:progress","_t":1781064371684,"id":"1","progress":0.868285123966942,"total":132,"current":123}
+{"_e":"metro:bundling:progress","_t":1781064371820,"id":"1","progress":0.883317315846006,"total":133,"current":125}
+{"_e":"metro:bundling:progress","_t":1781064372159,"id":"1","progress":0.8975069252077561,"total":133,"current":126}
+{"_e":"metro:bundling:progress","_t":1781064372276,"id":"1","progress":0.8975069252077561,"total":134,"current":126}
+{"_e":"metro:bundling:progress","_t":1781064372695,"id":"1","progress":0.8982512809088883,"total":134,"current":127}
+{"_e":"metro:bundling:progress","_t":1781064379673,"id":"1","progress":0.8982512809088883,"total":137,"current":129}
+{"_e":"metro:bundling:progress","_t":1781064379804,"id":"1","progress":0.8982512809088883,"total":139,"current":130}
+{"_e":"metro:bundling:progress","_t":1781064379917,"id":"1","progress":0.8982512809088883,"total":142,"current":134}
+{"_e":"metro:bundling:progress","_t":1781064380055,"id":"1","progress":0.8982512809088883,"total":152,"current":137}
+{"_e":"metro:bundling:progress","_t":1781064380157,"id":"1","progress":0.8982512809088883,"total":152,"current":138}
+{"_e":"metro:bundling:progress","_t":1781064380279,"id":"1","progress":0.8982512809088883,"total":154,"current":142}
+{"_e":"metro:bundling:progress","_t":1781064380394,"id":"1","progress":0.8982512809088883,"total":155,"current":144}
+{"_e":"metro:bundling:progress","_t":1781064380954,"id":"1","progress":0.8982512809088883,"total":156,"current":144}
+{"_e":"metro:bundling:progress","_t":1781064381076,"id":"1","progress":0.8982512809088883,"total":200,"current":145}
+{"_e":"metro:bundling:progress","_t":1781064381199,"id":"1","progress":0.8982512809088883,"total":201,"current":151}
+{"_e":"metro:bundling:progress","_t":1781064381444,"id":"1","progress":0.8982512809088883,"total":207,"current":154}
+{"_e":"metro:bundling:progress","_t":1781064381556,"id":"1","progress":0.8982512809088883,"total":218,"current":156}
+{"_e":"metro:bundling:progress","_t":1781064381748,"id":"1","progress":0.8982512809088883,"total":225,"current":158}
+{"_e":"metro:bundling:progress","_t":1781064381778,"id":"1","progress":0.8982512809088883,"total":225,"current":159}
+{"_e":"metro:bundling:progress","_t":1781064381885,"id":"1","progress":0.8982512809088883,"total":226,"current":162}
+{"_e":"metro:bundling:progress","_t":1781064381985,"id":"1","progress":0.8982512809088883,"total":229,"current":167}
+{"_e":"metro:bundling:progress","_t":1781064382112,"id":"1","progress":0.8982512809088883,"total":232,"current":172}
+{"_e":"metro:bundling:progress","_t":1781064382213,"id":"1","progress":0.8982512809088883,"total":233,"current":176}
+{"_e":"metro:bundling:progress","_t":1781064382399,"id":"1","progress":0.8982512809088883,"total":233,"current":178}
+{"_e":"metro:bundling:progress","_t":1781064382586,"id":"1","progress":0.8982512809088883,"total":235,"current":179}
+{"_e":"metro:bundling:progress","_t":1781064382687,"id":"1","progress":0.8982512809088883,"total":236,"current":180}
+{"_e":"metro:bundling:progress","_t":1781064382878,"id":"1","progress":0.8982512809088883,"total":239,"current":181}
+{"_e":"metro:bundling:progress","_t":1781064382978,"id":"1","progress":0.8982512809088883,"total":239,"current":183}
+{"_e":"metro:bundling:progress","_t":1781064383154,"id":"1","progress":0.8982512809088883,"total":240,"current":186}
+{"_e":"metro:bundling:progress","_t":1781064383258,"id":"1","progress":0.8982512809088883,"total":242,"current":189}
+{"_e":"metro:bundling:progress","_t":1781064383394,"id":"1","progress":0.8982512809088883,"total":244,"current":192}
+{"_e":"metro:bundling:progress","_t":1781064383521,"id":"1","progress":0.8982512809088883,"total":247,"current":197}
+{"_e":"metro:bundling:progress","_t":1781064383654,"id":"1","progress":0.8982512809088883,"total":248,"current":200}
+{"_e":"metro:bundling:progress","_t":1781064383763,"id":"1","progress":0.8982512809088883,"total":248,"current":202}
+{"_e":"metro:bundling:progress","_t":1781064383865,"id":"1","progress":0.8982512809088883,"total":250,"current":204}
+{"_e":"metro:bundling:progress","_t":1781064383965,"id":"1","progress":0.8982512809088883,"total":250,"current":206}
+{"_e":"metro:bundling:progress","_t":1781064384096,"id":"1","progress":0.8982512809088883,"total":252,"current":211}
+{"_e":"metro:bundling:progress","_t":1781064384221,"id":"1","progress":0.8982512809088883,"total":253,"current":216}
+{"_e":"metro:bundling:progress","_t":1781064384388,"id":"1","progress":0.8982512809088883,"total":254,"current":218}
+{"_e":"metro:bundling:progress","_t":1781064384512,"id":"1","progress":0.8982512809088883,"total":255,"current":219}
+{"_e":"metro:bundling:progress","_t":1781064384621,"id":"1","progress":0.8982512809088883,"total":256,"current":224}
+{"_e":"metro:bundling:progress","_t":1781064384863,"id":"1","progress":0.8982512809088883,"total":258,"current":226}
+{"_e":"metro:bundling:progress","_t":1781064384985,"id":"1","progress":0.8982512809088883,"total":263,"current":229}
+{"_e":"metro:bundling:progress","_t":1781064385126,"id":"1","progress":0.8982512809088883,"total":271,"current":230}
+{"_e":"metro:bundling:progress","_t":1781064385237,"id":"1","progress":0.8982512809088883,"total":272,"current":233}
+{"_e":"metro:bundling:progress","_t":1781064385337,"id":"1","progress":0.8982512809088883,"total":272,"current":236}
+{"_e":"metro:bundling:progress","_t":1781064385465,"id":"1","progress":0.8982512809088883,"total":274,"current":239}
+{"_e":"metro:bundling:progress","_t":1781064385584,"id":"1","progress":0.8982512809088883,"total":275,"current":243}
+{"_e":"metro:bundling:progress","_t":1781064385807,"id":"1","progress":0.8982512809088883,"total":276,"current":247}
+{"_e":"metro:bundling:progress","_t":1781064385929,"id":"1","progress":0.8982512809088883,"total":279,"current":248}
+{"_e":"metro:bundling:progress","_t":1781064386104,"id":"1","progress":0.8982512809088883,"total":279,"current":249}
+{"_e":"metro:bundling:progress","_t":1781064386204,"id":"1","progress":0.8982512809088883,"total":279,"current":250}
+{"_e":"metro:bundling:progress","_t":1781064386387,"id":"1","progress":0.8982512809088883,"total":279,"current":251}
+{"_e":"metro:bundling:progress","_t":1781064386498,"id":"1","progress":0.8982512809088883,"total":279,"current":254}
+{"_e":"metro:bundling:progress","_t":1781064386827,"id":"1","progress":0.8982512809088883,"total":281,"current":256}
+{"_e":"metro:bundling:progress","_t":1781064386952,"id":"1","progress":0.8982512809088883,"total":294,"current":260}
+{"_e":"metro:bundling:progress","_t":1781064387054,"id":"1","progress":0.8982512809088883,"total":296,"current":263}
+{"_e":"metro:bundling:progress","_t":1781064387202,"id":"1","progress":0.8982512809088883,"total":297,"current":264}
+{"_e":"metro:bundling:progress","_t":1781064387271,"id":"1","progress":0.8982512809088883,"total":297,"current":265}
+{"_e":"metro:bundling:progress","_t":1781064387456,"id":"1","progress":0.8982512809088883,"total":297,"current":267}
+{"_e":"metro:bundling:progress","_t":1781064387567,"id":"1","progress":0.8982512809088883,"total":302,"current":270}
+{"_e":"metro:bundling:progress","_t":1781064387673,"id":"1","progress":0.8982512809088883,"total":303,"current":273}
+{"_e":"metro:bundling:progress","_t":1781064387774,"id":"1","progress":0.8982512809088883,"total":306,"current":275}
+{"_e":"metro:bundling:progress","_t":1781064388395,"id":"1","progress":0.8982512809088883,"total":306,"current":276}
+{"_e":"metro:bundling:progress","_t":1781064388540,"id":"1","progress":0.8982512809088883,"total":307,"current":276}
+{"_e":"metro:bundling:progress","_t":1781064388696,"id":"1","progress":0.8982512809088883,"total":307,"current":277}
+{"_e":"metro:bundling:progress","_t":1781064388801,"id":"1","progress":0.8982512809088883,"total":307,"current":281}
+{"_e":"metro:bundling:progress","_t":1781064388929,"id":"1","progress":0.8982512809088883,"total":309,"current":286}
+{"_e":"metro:bundling:progress","_t":1781064389041,"id":"1","progress":0.8982512809088883,"total":309,"current":290}
+{"_e":"metro:bundling:progress","_t":1781064389178,"id":"1","progress":0.9052691111320578,"total":309,"current":294}
+{"_e":"metro:bundling:progress","_t":1781064389321,"id":"1","progress":0.9238382505419926,"total":309,"current":297}
+{"_e":"metro:bundling:progress","_t":1781064389426,"id":"1","progress":0.9427783558792924,"total":310,"current":301}
+{"_e":"metro:bundling:progress","_t":1781064389535,"id":"1","progress":0.9808004466455061,"total":311,"current":308}
+{"_e":"metro:bundling:progress","_t":1781064389643,"id":"1","progress":0.9808004466455061,"total":314,"current":309}
+{"_e":"metro:bundling:progress","_t":1781064389754,"id":"1","progress":0.9810430839002269,"total":315,"current":312}
+{"_e":"metro:bundling:progress","_t":1781064389872,"id":"1","progress":0.9873818298349623,"total":316,"current":314}
+{"_e":"metro:bundling:done","_t":1781064390488,"id":"1","total":316,"ms":29937.9183}
+{"_e":"metro:client_log","_t":1781064391538,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781064391540,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781064392059,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:client_log","_t":1781064392060,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781064662554,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781064662589,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781064662766,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781064963522,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781064963528,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781064963746,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781065264506,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781065264508,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781065264794,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781065565514,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781065565516,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781065565750,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:bundling:started","_t":1781070914251,"id":"4","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781070914273,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781070914592,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1781070918524,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781070920114,"id":"4","total":1,"ms":5848.4272}
+{"_e":"metro:client_log","_t":1781070921260,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781070921261,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781070921445,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:client_log","_t":1781070921450,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781070921450,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"jFiD3n6W8rThZ7i3gnJUa\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781070924556,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781071217535,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781071217651,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781071227104,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781071228115,"level":"log","data":["error","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781071228116,"level":"log","data":["An error occurred:","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781071228116,"level":"log","data":["Stream synchronization idle."]}
+{"_e":"metro:bundling:started","_t":1781071228154,"id":"7","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781071228156,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781071228658,"id":"7","total":1,"ms":502.7638}
+{"_e":"metro:client_log","_t":1781071230571,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781071230576,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781071230577,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:client_log","_t":1781071230577,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781071230577,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"bJxri2Iu-SBiYY7Ti0kxZ\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781071230580,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"bJxri2Iu-SBiYY7Ti0kxZ\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781071239864,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781071257636,"level":"log","data":["[TypeError: Failed to fetch]"]}
+{"_e":"metro:client_log","_t":1781071259383,"level":"log","data":["[TypeError: Failed to fetch]"]}
+{"_e":"metro:client_log","_t":1781071283027,"level":"log","data":["[TypeError: Failed to fetch]"]}
+{"_e":"metro:client_log","_t":1781071284458,"level":"log","data":["[TypeError: Failed to fetch]"]}
+{"_e":"metro:client_log","_t":1781071285380,"level":"log","data":["[TypeError: Failed to fetch]"]}
+{"_e":"metro:client_log","_t":1781071529748,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781071530094,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781071530346,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781071646833,"level":"log","data":["error","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781071646834,"level":"log","data":["An error occurred:","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781071646835,"level":"log","data":["Stream synchronization idle."]}
+{"_e":"metro:client_log","_t":1781071646842,"level":"log","data":["Stream synchronization idle."]}
+{"_e":"metro:bundling:started","_t":1781071647075,"id":"a","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781071647075,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781071647546,"id":"a","total":1,"ms":443.9933}
+{"_e":"metro:client_log","_t":1781071650434,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781071650435,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781071650435,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:client_log","_t":1781071650435,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781071650503,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"omzM1FZy57lFkvpNwxiLw\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781071650507,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"omzM1FZy57lFkvpNwxiLw\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781071659845,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781071948532,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781071948567,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781071948760,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781072007863,"level":"log","data":["error","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781072007864,"level":"log","data":["An error occurred:","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781072007864,"level":"log","data":["Stream synchronization idle."]}
+{"_e":"metro:bundling:started","_t":1781072007992,"id":"d","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781072007993,"id":"d","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781072008075,"id":"d","total":1,"ms":82.6284}
+{"_e":"metro:client_log","_t":1781072010434,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781072010434,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781072010435,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781072010435,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"LI_VMCgVXxXpT6VVMbpKA\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781072018848,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"LI_VMCgVXxXpT6VVMbpKA\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781072019816,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781072309537,"level":"log","data":["restart sse, about to listen"]}
+{"_e":"metro:client_log","_t":1781072309550,"level":"log","data":["listen","https://wallet.binance.com/tonbridge/bridge/events?client_id=34530ce5ac7e550f7f7b4118ec99b479a4d7448e48ea0aedafdb030e2bc70836&user_info="]}
+{"_e":"metro:client_log","_t":1781072309909,"level":"log","data":["open","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781072367392,"level":"log","data":["error","{\"isTrusted\": true}"]}
+{"_e":"metro:client_log","_t":1781072367416,"level":"log","data":["An error occurred:","{\"isTrusted\": true}"]}
+{"_e":"metro:bundling:started","_t":1781072369050,"id":"g","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781072369050,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781072369497,"id":"g","total":1,"ms":447.0955}
+{"_e":"metro:client_log","_t":1781072371173,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781072371174,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781072371174,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781072371174,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"FF3S7kIk9hIhLplOmmCv6\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781072374918,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"FF3S7kIk9hIhLplOmmCv6\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781072379559,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781072381662,"level":"warn","data":["An error occurred in the <App> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:bundling:started","_t":1781072385981,"id":"j","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781072385981,"id":"j","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781072386055,"id":"j","total":1,"ms":73.8896}
+{"_e":"metro:client_log","_t":1781072387366,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781072387372,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781072387372,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781072387372,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"oQ0j4QRLp8fFRMUlI1RD5\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781072388241,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"oQ0j4QRLp8fFRMUlI1RD5\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781072389460,"level":"warn","data":["An error occurred in the <App> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:bundling:started","_t":1781072393830,"id":"m","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781072393831,"id":"m","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781072394095,"id":"m","total":1,"ms":264.7135}
+{"_e":"metro:client_log","_t":1781072395543,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781072395544,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781072395544,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781072395544,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"whsrbmiF5T2Fb4wePfvoZ\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781072398127,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"whsrbmiF5T2Fb4wePfvoZ\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781072404097,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781072490529,"level":"warn","data":["An error occurred in the <App> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:bundling:started","_t":1781072512495,"id":"p","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781072512499,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781072513693,"id":"p","total":1,"ms":1195.8293}
+{"_e":"metro:client_log","_t":1781072514744,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781072514767,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781072514784,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781072514794,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"LVdCSzbNwMcjepG8vL4Ts\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781072515665,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"LVdCSzbNwMcjepG8vL4Ts\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781072528385,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}
+{"_e":"metro:client_log","_t":1781072530312,"level":"warn","data":["An error occurred in the <App> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:bundling:started","_t":1781072718270,"id":"s","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1781072718271,"id":"s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1781072719116,"id":"s","total":1,"ms":845.1092}
+{"_e":"metro:client_log","_t":1781072719996,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1781072719998,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1781072719998,"level":"debug","data":["[initMessageListener]  --- receive contentScriptInitDone ---"]}
+{"_e":"metro:client_log","_t":1781072719998,"level":"debug","data":["[postMessageToContentScript]","{\"args\": [], \"callFrom\": \"inPage\", \"funcName\": \"getExtensionInfo\", \"messageId\": \"MDi2HX-aadUrC8822Cw_8\", \"moduleName\": \"multichainWallet\", \"providerCallContext\": undefined, \"type\": \"contentscriptFunctionCall\"}"]}
+{"_e":"metro:client_log","_t":1781072720006,"level":"debug","data":["[initMessageListener]  --- receive contentscript message ---","{\"__wallet_sent_from_content_script_msg__\": true, \"messageId\": \"MDi2HX-aadUrC8822Cw_8\", \"returnValue\": {\"autoSignEnabled\": false, \"extensionId\": \"71087410-67bd-45f7-ae97-25a5ad0b07f0\", \"version\": \"1.16.2\", \"walletLocked\": true}, \"target\": \"inPage\", \"type\": \"functionCallResult\"}"]}
+{"_e":"metro:client_log","_t":1781072729320,"level":"warn","data":["Error restoring session","[i: Failed to connect to MetaMask]"]}

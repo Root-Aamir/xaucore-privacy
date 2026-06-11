@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "e59e4bba-8d5f-4354-9418-e8b6c8dfb95f"
+      }
+    },
+    "android": {
+      "package": "com.root_aamir.xaucorepro"
+    },
+    "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-2499469286718451~3797874851"
+    }
+  }
+}
